@@ -1,5 +1,5 @@
-# Academic_project 
+# Academic_project 2022 Second Term 
 
-## Language: Python(pandas,matplotlib,seaborn)
+## Languages: Python,R
 Academic project. Topics: logistic regression, GridSearch, Random forest, k-means, PCA
 
